@@ -1,0 +1,14 @@
+p{ color: royalblue; font-size 16px }
+.facts{background: lightgray;}
+.cats{background: pink;}
+.animals{background: yellow;}
+/*CHANGE FONT*/
+.facts{font-family: Comic Sans MS}
+/*ADD A BORDER AND SQUARE THE BORDER EDGES*/
+.cats{border: 2px solid blue; border-radius: 4px}
+/*PAD A DIV*/
+.facts{padding: 8px;}
+/*MAKE SPACE BETWEEN ONE PIECE OF CONTENT AND ANOTHER*/
+.cats {margin 16px}
+/*STYLE A HEADER*/
+h1{color:pink; text-align:center;}
